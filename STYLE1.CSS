@@ -1,0 +1,25 @@
+body {
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+    background-color:black;
+  }
+  
+  #main {
+    max-width: 1280px;
+    max-height: 100%;
+    margin: 30px auto;
+    padding: 15px;
+    background-color: blueviolet;
+    border-radius: 5px;
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  #main p {
+    text-align: center;
+  }
+  .p{
+    background-color: black;
+  }
